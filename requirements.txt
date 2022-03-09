@@ -104,7 +104,6 @@ scikit-learn==0.23.2
 scikit-plot==0.3.7
 scipy==1.5.4
 seaborn==0.11.2
-sip==4.19.13
 smart-open==5.2.1
 smmap==5.0.0
 SoundFile==0.10.3.post1
