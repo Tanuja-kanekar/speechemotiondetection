@@ -77,7 +77,6 @@ pyzmq==22.3.0
 requests==2.27.1
 resampy==0.2.2
 scikit-learn==0.23.2
-scipy==1.8.0
 semver==2.13.0
 Send2Trash==1.8.0
 six==1.16.0
